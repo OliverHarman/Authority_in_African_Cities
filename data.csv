@@ -1,0 +1,221 @@
+Country,Region,Year,ID,PA,FA,BA,Rep,LM,EC,FC,BC,Const,SR,ShR,RAI
+Ghana,Local Gov.,1992,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,1993,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,1994,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,1995,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,1996,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,1997,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,1998,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,1999,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2000,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2001,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2002,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2003,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2004,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2005,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2006,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2007,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2008,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2009,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2010,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2011,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2012,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2013,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2014,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2015,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2016,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2017,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2018,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2019,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2020,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2021,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2022,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2023,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2024,2,2,1,1,2,0,0,1,0,0,8,1,9
+Ghana,Local Gov.,2025,2,2,1,1,2,0,0,1,0,0,8,1,9
+Kenya,Counties,2010,3,3,2,1,4,0,1,1,0,4,13,6,19
+Kenya,Urban Areas,2011,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2012,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2013,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2014,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2015,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2016,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2017,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2018,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2019,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2020,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2021,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2022,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2023,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2024,2,2,0,0,1,0,0,0,0,0,5,0,5
+Kenya,Urban Areas,2025,2,2,0,0,1,0,0,0,0,0,5,0,5
+Malawi,Local Gov.,1994,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,1995,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,1996,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,1997,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,1998,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,1999,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2000,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2001,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2002,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2003,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2004,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2005,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2006,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2007,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2008,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2009,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2010,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2011,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2012,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2013,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2014,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2015,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2016,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2017,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2018,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2019,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2020,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2021,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2022,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2023,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2024,2,2,0,1,3,0,0,1,0,0,8,1,9
+Malawi,Local Gov.,2025,2,2,0,1,3,0,0,1,0,0,8,1,9
+Rwanda,Districts,2003,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rwanda,Districts,2004,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rwanda,Districts,2005,1,2,1,0,2,0,1,1,0,0,6,2,8
+Rwanda,Districts,2006,1,2,1,0,2,0,1,1,0,0,6,2,8
+Rwanda,Districts,2007,1,2,1,0,2,0,1,1,0,0,6,2,8
+Rwanda,Districts,2008,1,2,1,0,2,0,1,1,0,0,6,2,8
+Rwanda,Districts,2009,1,2,1,0,2,0,1,1,0,0,6,2,8
+Rwanda,Districts,2010,1,2,1,0,2,0,1,1,0,0,6,2,8
+Rwanda,Districts,2011,1,2,1,0,2,0,1,1,0,0,6,2,8
+Rwanda,Districts,2012,1,2,1,0,2,0,1,1,0,0,6,2,8
+Rwanda,Districts,2013,1,1,0,1,0,0,0,0,0,0,3,0,3
+Rwanda,Districts,2014,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2015,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2016,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2017,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2018,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2019,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2020,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2021,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2022,1,2,1,1,2,0,1,1,0,0,7,2,9
+Rwanda,Districts,2023,1,1,0,0,2,0,0,0,0,0,4,0,4
+Rwanda,Districts,2024,1,1,0,0,2,0,0,0,0,0,4,0,4
+Rwanda,Districts,2025,1,1,0,0,2,0,0,0,0,0,4,0,4
+Sierra Leone,Local Gov.,1991,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,1992,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,1993,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,1994,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,1995,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,1996,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,1997,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,1998,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,1999,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,2000,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,2001,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,2002,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,2003,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sierra Leone,Local Gov.,2004,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2005,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2006,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2007,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2008,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2009,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2010,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2011,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2012,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2013,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2014,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2015,2,2,2,1,3,0,0,1,0,0,10,1,11
+Sierra Leone,Local Gov.,2016,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2017,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2018,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2019,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2020,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2021,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2022,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2023,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2024,2,2,2,1,4,0,0,1,0,0,11,1,12
+Sierra Leone,Local Gov.,2025,2,2,2,1,4,0,0,1,0,0,11,1,12
+Tanzania,Local Auth.,1977,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tanzania,Local Auth.,1978,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tanzania,Local Auth.,1979,0,1,1,0,2,0,0,0,0,0,4,0,4
+Tanzania,Local Auth.,1980,0,1,1,0,2,0,0,0,0,0,4,0,4
+Tanzania,Local Auth.,1981,0,1,1,0,2,0,0,0,0,0,4,0,4
+Tanzania,Local Auth.,1982,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1983,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1984,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1985,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1986,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1987,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1988,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1989,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1990,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1991,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1992,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1993,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1994,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1995,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1996,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1997,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1998,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,1999,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2000,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2001,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2002,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2003,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2004,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2005,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2006,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2007,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2008,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2009,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2010,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2011,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2012,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2013,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2014,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2015,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2016,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2017,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2018,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2019,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2020,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2021,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2022,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2023,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2024,2,3,2,1,4,0,0,0,0,0,12,0,12
+Tanzania,Local Auth.,2025,2,3,2,1,4,0,0,0,0,0,12,0,12
+Uganda,Local Gov.,1995,2,2,2,1,4,0,0,1,0,3,11,4,15
+Uganda,Local Gov.,1996,2,2,2,1,4,0,0,1,0,3,11,4,15
+Uganda,Local Gov.,1997,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,1998,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,1999,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2000,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2001,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2002,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2003,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2004,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2005,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2006,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2007,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2008,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2009,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2010,2,3,2,2,3,0,0,1,0,3,12,4,16
+Uganda,Local Gov.,2011,2,3,2,2,3,0,0,1,0,3,12,4,16
+Uganda,Local Gov.,2012,2,3,2,2,3,0,0,1,0,3,12,4,16
+Uganda,Local Gov.,2013,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2014,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2015,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2016,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2017,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2018,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2019,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2020,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2021,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2022,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2023,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2024,2,3,2,2,4,0,0,1,0,3,13,4,17
+Uganda,Local Gov.,2025,2,3,2,2,4,0,0,1,0,3,13,4,17
