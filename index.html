@@ -493,30 +493,6 @@ input[type="range"]::-webkit-slider-thumb {
 <!-- ==================== MAIN ==================== -->
 <div class="main">
 
-<button class="guide-toggle" id="guideBtn">ℹ Updating data &amp; hosting this site</button>
-<div class="guide-box" id="guideBox">
-  <h4>How to update the data</h4>
-  <p>Edit <code>data.csv</code> in any spreadsheet program (Excel, Google Sheets) or text editor. Each row is one country-year. To add a new entity (e.g. Kampala as a separate coding), add rows with a new Country name — the site auto-detects it and assigns a colour.</p>
-  <pre>Country,Region,Year,ID,PA,FA,BA,Rep,LM,EC,FC,BC,Const,SR,ShR,RAI
-Uganda - Kampala,KCCA,2010,2,3,2,2,3,0,0,1,0,3,12,4,16
-Uganda - Kampala,KCCA,2011,2,3,2,2,3,0,0,1,0,3,12,4,16</pre>
-  <p>Remember: <code>SR = ID+PA+FA+BA+Rep</code> &nbsp;|&nbsp; <code>ShR = LM+EC+FC+BC+Const</code> &nbsp;|&nbsp; <code>RAI = SR+ShR</code></p>
-
-  <h4 style="margin-top:14px;">How to host via GitHub Pages</h4>
-  <p>Since this is a single HTML file with no server dependencies, GitHub Pages is the easiest option:</p>
-  <pre>1. Create a new GitHub repository (e.g. "rai-metro-explorer")
-2. Upload this file as index.html
-3. Go to Settings → Pages → Source: "main" branch, / (root)
-4. Your site will be live at:
-   https://yourusername.github.io/rai-metro-explorer/</pre>
-  <p>Every time you push an edit to <code>index.html</code>, the site updates automatically within minutes. You can also use a custom domain if you prefer.</p>
-
-  <h4 style="margin-top:14px;">Data format (data.csv)</h4>
-  <p>This site loads data from <code>data.csv</code> in the same directory. The CSV has columns: <code>Country, Region, Year, ID, PA, FA, BA, Rep, LM, EC, FC, BC, Const, SR, ShR, RAI</code>. To add a new country or region variant (e.g. Kampala), simply add rows with the new Country name. To update scores, edit the relevant row. The site auto-detects all countries from the CSV.</p>
-  <p>If opened directly as a local file (file://), the CSV won't load due to browser security — the embedded fallback data will be used instead. For full functionality, host via GitHub Pages or a local server (<code>python3 -m http.server</code>).</p>
-</div>
-
-
 <div class="intro-box">
   <p>African cities are growing rapidly, yet systematic data on metropolitan authority remain absent from comparative datasets. This explorer presents the first cross-country, time-varying measure of metropolitan authority in Africa using the Regional Authority Index (RAI) framework. Analysing constitutional and legislative texts from 1990 to 2025 across seven countries—Ghana, Kenya, Malawi, Rwanda, Sierra Leone, Tanzania, and Uganda—it measures both self-rule (local authority to act) and shared-rule (local voice in national decisions) across multiple institutional dimensions. Select a country or measure to explore how formal metropolitan authority has evolved.</p>
 </div>
